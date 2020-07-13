@@ -1,9 +1,9 @@
-# gallary-classification
+# Photo-classification
 
 ## TODO
 
-1. 图片分类
-2. 人物分类
+1. Photo classification
+2. Face classification
 
 ## Dependency
 
@@ -15,4 +15,4 @@
 1. face detect
 2. face feature extration
 3. Cosine Similarity
-4. Face Cluster
+4. Face Cluster/Knn?
